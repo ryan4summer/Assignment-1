@@ -4,7 +4,7 @@ geared toward helping sea turtles.
 Give a bit, change a lot!
 
 Contributors:
- - Tiantina Xia
+ - Tiantian Xia
  - Ali Alaoui
  - Immaculata Uchechukwu
  - Neissa Dorsinville
