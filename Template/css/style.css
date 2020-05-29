@@ -2342,7 +2342,7 @@ input:-internal-autofill-selected {
 .banner_part {
   height: 950px;
   position: relative;
-  background-image: url(../img/Index_bg.png);
+  background-image: url(../img/home_bg.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -2794,6 +2794,7 @@ input:-internal-autofill-selected {
 /* line 6, ../../01 cl html template/03_jun 2019/183_Charity_html/sass/_about.scss */
 .about_us .about_us_img {
   background-image: url(../img/about_bg.png);
+  background-color: white;
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -4109,7 +4110,7 @@ input:-internal-autofill-selected {
 /**************** intro_video css start ****************/
 /* line 2, ../../01 cl html template/03_jun 2019/183_Charity_html/sass/_intro_video_bg.scss */
 .intro_video_bg {
-  background-image: url("../img/video-banner.png");
+  background-image: url("https://media.apnarm.net.au/media/images/2019/06/17/b881999986z1_20190617065613_000gsp1ift5b3-0-yq26xppti64e4dqghs2_fct2168x1625x289_t1880.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -6792,7 +6793,7 @@ h1, h2, h3, h4, h5, h6 {
 
 /* line 1, ../../01 cl html template/03_jun 2019/183_Charity_html/sass/_breadcrumb.scss */
 .breadcrumb_bg {
-  background-image: url("../img/Index_bg.png");
+  background-image: url("../img/home_bg.png");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
