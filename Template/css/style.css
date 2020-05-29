@@ -26,7 +26,7 @@ input:hover, input:focus {
 
 /* line 15, ../../01 cl html template/03_jun 2019/183_Charity_html/sass/_common.scss */
 .gray_bg {
-  background-color: #f7f7f7;
+  background-color: red;
 }
 
 /* line 18, ../../01 cl html template/03_jun 2019/183_Charity_html/sass/_common.scss */
@@ -462,7 +462,7 @@ ul {
 
 /* line 255, ../../01 cl html template/03_jun 2019/183_Charity_html/sass/_common.scss */
 input:-internal-autofill-selected {
-  background-color: transparent !important;
+  background-color: #3e9c40 !important;
   background-image: none !important;
   color: black !important;
 }
@@ -492,7 +492,7 @@ input:-internal-autofill-selected {
 
 /* line 20, ../../01 cl html template/03_jun 2019/183_Charity_html/sass/_button.scss */
 .submit_btn:hover {
-  background: transparent;
+  background: #3e9c40;
 }
 
 /* line 26, ../../01 cl html template/03_jun 2019/183_Charity_html/sass/_button.scss */
@@ -514,7 +514,7 @@ input:-internal-autofill-selected {
 
 /* line 40, ../../01 cl html template/03_jun 2019/183_Charity_html/sass/_button.scss */
 .btn_1:hover {
-  background-color: #8d00ff !important;
+  background-color: red !important;
   color: #fff;
 }
 
@@ -617,7 +617,7 @@ input:-internal-autofill-selected {
 
 /* line 149, ../../01 cl html template/03_jun 2019/183_Charity_html/sass/_button.scss */
 .button-link:hover {
-  background: transparent;
+  background: #3e9c40;
   color: #3b1d82;
 }
 
@@ -629,7 +629,7 @@ input:-internal-autofill-selected {
 
 /* line 159, ../../01 cl html template/03_jun 2019/183_Charity_html/sass/_button.scss */
 .button-header:hover {
-  background: #b8024c;
+  background: yellow;
   color: #fff;
 }
 
@@ -2160,7 +2160,7 @@ input:-internal-autofill-selected {
 
 /* line 61, ../../01 cl html template/03_jun 2019/183_Charity_html/sass/_menu.scss */
 .main_menu .main-menu-item ul li .nav-link {
-  color: #fff;
+  color: white;
   font-size: 16px;
   padding: 40px 25px;
   font-family: "Roboto", sans-serif;
@@ -2187,8 +2187,8 @@ input:-internal-autofill-selected {
 .main_menu .btn_2 {
   padding: 10.5px 39px;
   margin-left: 55px;
-  color: #fff;
-  background-color: transparent;
+  color: white;
+  background-color: #3e9c40;
   border: 1px solid #fff;
 }
 
@@ -2223,7 +2223,7 @@ input:-internal-autofill-selected {
 
 /* line 115, ../../01 cl html template/03_jun 2019/183_Charity_html/sass/_menu.scss */
 .dropdown .dropdown-menu .dropdown-item:hover {
-  color: #8d00ff !important;
+  color: #3e9c40 !important;
 }
 
 /* line 122, ../../01 cl html template/03_jun 2019/183_Charity_html/sass/_menu.scss */
@@ -2234,7 +2234,7 @@ input:-internal-autofill-selected {
 @media (max-width: 991px) {
   /* line 132, ../../01 cl html template/03_jun 2019/183_Charity_html/sass/_menu.scss */
   .single_page_menu .navbar-collapse ul li .nav-link {
-    color: #000 !important;
+    color: #3e9c40 !important;
   }
   /* line 140, ../../01 cl html template/03_jun 2019/183_Charity_html/sass/_menu.scss */
   .main_menu .navbar {
@@ -2257,7 +2257,7 @@ input:-internal-autofill-selected {
     left: 0;
     top: 62px;
     width: 100%;
-    background-color: #fff;
+    background-color: #3e9c40;
     text-align: center !important;
     box-shadow: 0px 11px 9px -5px rgba(0, 0, 0, 0.2);
   }
@@ -2272,7 +2272,7 @@ input:-internal-autofill-selected {
   /* line 170, ../../01 cl html template/03_jun 2019/183_Charity_html/sass/_menu.scss */
   .main_menu .main-menu-item .nav-item a {
     padding: 10px 15px !important;
-    color: #000 !important;
+    color: blue !important;
   }
   /* line 177, ../../01 cl html template/03_jun 2019/183_Charity_html/sass/_menu.scss */
   .navbar-nav {
@@ -2289,11 +2289,11 @@ input:-internal-autofill-selected {
   .dropdown:hover .dropdown-menu {
     transform: scale(1);
     display: block;
-    color: #8d00ff;
+    color: #3e9c40;
   }
   /* line 197, ../../01 cl html template/03_jun 2019/183_Charity_html/sass/_menu.scss */
   .dropdown .dropdown-item:hover {
-    color: #8d00ff !important;
+    color: #3e9c40 !important;
   }
 }
 
@@ -2595,7 +2595,7 @@ input:-internal-autofill-selected {
 
 /* line 30, ../../01 cl html template/03_jun 2019/183_Charity_html/sass/_service.scss */
 .service_part .service_text h2 span {
-  color: #8d00ff;
+  color: #3e9c40;
 }
 
 @media (max-width: 991px) {
@@ -2953,7 +2953,7 @@ input:-internal-autofill-selected {
   font-size: 16px;
   padding-right: 33px;
   padding-top: 12px;
-  color: #060606;
+  color: #3e9c40;
   width: 50%;
   float: left;
   font-family: "Roboto", sans-serif;
@@ -2972,7 +2972,7 @@ input:-internal-autofill-selected {
 /* line 127, ../../01 cl html template/03_jun 2019/183_Charity_html/sass/_about.scss */
 .about_us .about_us_text ul li span {
   margin-right: 10px;
-  color: #8d00ff;
+  color: #3e9c40;
   position: absolute;
   top: 16px;
   left: 0;
@@ -3261,7 +3261,7 @@ input:-internal-autofill-selected {
 /* line 72, ../../01 cl html template/03_jun 2019/183_Charity_html/sass/_feature_part.scss */
 .feature_part .single_feature_part {
   padding: 42px 30px 37px;
-  background-color: #f2f5f3;
+  background-color: #3e9c40;
   -webkit-transition: 1s;
   transition: 1s;
   position: relative;
@@ -3736,7 +3736,7 @@ input:-internal-autofill-selected {
 
 /* line 43, ../../01 cl html template/03_jun 2019/183_Charity_html/sass/_passion.scss */
 .passion_part .single-home-passion .card {
-  background-color: transparent;
+  background-color: #184d19;
   position: relative;
 }
 
@@ -5314,7 +5314,7 @@ h1, h2, h3, h4, h5, h6 {
 
 /* line 411, ../../01 cl html template/03_jun 2019/183_Charity_html/sass/_elements.scss */
 .progress-table .table-row .percentage .progress .progress-bar.color-1 {
-  background-color: #6382e6;
+  background-color: pink;
 }
 
 /* line 414, ../../01 cl html template/03_jun 2019/183_Charity_html/sass/_elements.scss */
@@ -5633,7 +5633,7 @@ h1, h2, h3, h4, h5, h6 {
   bottom: 0;
   width: 100%;
   height: 100%;
-  background: transparent;
+  background: yellow;
   border-radius: 8.5px;
   cursor: pointer;
   -webkit-transition: all 0.2s;
@@ -6789,7 +6789,7 @@ h1, h2, h3, h4, h5, h6 {
 
 /* line 1, ../../01 cl html template/03_jun 2019/183_Charity_html/sass/_breadcrumb.scss */
 .breadcrumb_bg {
-  background-image: url("../img/breadcum_bg.png");
+  background-image: url("../img/Index_bg.png");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -6799,7 +6799,7 @@ h1, h2, h3, h4, h5, h6 {
 .breadcrumb {
   position: relative;
   z-index: 1;
-  background-color: transparent;
+  background-color: red;
 }
 
 /* line 9, ../../01 cl html template/03_jun 2019/183_Charity_html/sass/_breadcrumb.scss */
@@ -6810,9 +6810,10 @@ h1, h2, h3, h4, h5, h6 {
   width: 100%;
   height: 100%;
   content: "";
-  background-image: -moz-linear-gradient(-89deg, #9300ff 0%, #d500ff 100%);
-  background-image: -webkit-linear-gradient(-89deg, #9300ff 0%, #d500ff 100%);
-  background-image: -ms-linear-gradient(-89deg, #9300ff 0%, #d500ff 100%);
+  background-color: transparent;
+/*  background-image: -moz-linear-gradient(-89deg, #9300ff 0%, #d500ff 100%);
+*//*  background-image: -webkit-linear-gradient(-89deg, #9300ff 0%, #d500ff 100%);
+  background-image: -ms-linear-gradient(-89deg, #9300ff 0%, #d500ff 100%);*/
   opacity: 0.8;
   z-index: -1;
 }
@@ -6832,7 +6833,7 @@ h1, h2, h3, h4, h5, h6 {
 
 /* line 32, ../../01 cl html template/03_jun 2019/183_Charity_html/sass/_breadcrumb.scss */
 .breadcrumb .breadcrumb_iner .breadcrumb_iner_item h2 {
-  color: #fff;
+  color: white;
   font-size: 100px;
   font-weight: 700;
   margin-bottom: 10px;
